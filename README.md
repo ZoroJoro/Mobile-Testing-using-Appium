@@ -27,7 +27,7 @@ The test configuration is located in `src/test/java/test/BaseTest.java`. You **M
 
 ```java
 // Update this path to where your APK is located
-options.setApp("C:\\Users\\omar2\\Desktop\\java\\app-debug.apk");
+options.setApp("your app-debug.apk path");
 ```
 
 **Default Capabilities:**
